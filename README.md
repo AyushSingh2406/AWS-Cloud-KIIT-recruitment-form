@@ -4,6 +4,9 @@
 
 This project is a web-based recruitment form for the AWS Cloud Clubs. It features a modern and stylish interface for collecting applicant details, and it uses PHP for server-side processing with MySQL for data storage.
 
+## Pictures For Representations
+![aws](https://github.com/user-attachments/assets/8406c1b7-96f5-4a25-9ee3-d14a98def81b)
+
 ## Features
 
 - **Responsive Design**: Adapts to various screen sizes for an optimal user experience on both desktop and mobile devices.
